@@ -1,0 +1,36 @@
+############################
+# Angular
+############################
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+############################
+# .NET / ASP.NET Core
+############################
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+############################
+# Visual Studio
+############################
+.vs/
+
+############################
+# Environment / Secrets
+############################
+appsettings.json
+appsettings.Development.json
+
+############################
+# OS Files
+############################
+.DS_Store
+Thumbs.db
